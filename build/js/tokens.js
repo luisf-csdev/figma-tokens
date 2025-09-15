@@ -3,6 +3,9 @@
  */
 
 module.exports = {
+  Sizes2: "8rem",
+  Sizes4: "16rem",
+  Sizes8: "32rem",
   ColorWhite: "#ffffff",
   ColorGray200: "#c1c1c4",
   ColorGray500: "#50505c",
